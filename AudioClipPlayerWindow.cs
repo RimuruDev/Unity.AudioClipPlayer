@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace RimuruDev.Editor
+namespace RimuruDev
 {
     [HelpURL("https://github.com/RimuruDev/Unity.AudioClipPlayer")]
     public sealed class AudioClipPlayerWindow : EditorWindow
