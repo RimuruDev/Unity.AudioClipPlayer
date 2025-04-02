@@ -71,6 +71,10 @@ This tool is especially useful when you are managing many sound assets or need t
 
 - **Only works in the Unity Editor**: This tool is specifically designed to aid developers during the development process and will not work in a built version of the game.
 - **Large folders may cause performance issues**: If you load a folder with a very large number of audio clips, the editor may slow down. It is recommended to organize audio files into manageable folders.
+- 
+## TODO:
+- Add full path near the name.
+- Add copying of the full path by clicking on the name.
 
 ## License
 
